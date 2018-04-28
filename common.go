@@ -26,7 +26,7 @@ import (
 	"github.com/ont-project/ontology-framework/core"
 	"github.com/ont-project/ontology-framework/core/channel"
 	"github.com/ont-project/ontology-framework/core/meta"
-	"github.com/ont-project/ontology/runtime"
+	"github.com/ont-project/ontology/engine/runtime"
 )
 
 type StatelessValidatorModule struct {
